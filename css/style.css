@@ -23,7 +23,10 @@ body {
     margin-right: 40px; 
     border-radius: 15px;
 }
-
+.logo button{
+    background-color:#2D3426 ;
+    border: #2D3426;
+}
 .join {
     display: flex;
     align-items: center;
